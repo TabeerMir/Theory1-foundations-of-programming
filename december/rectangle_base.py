@@ -1,3 +1,4 @@
+#class for a rectangle
 class Rectangle:
     def __init__(self,xcoord=0,ycoord=0, width=1, length=1):
         if width <=0 or length<=0:
